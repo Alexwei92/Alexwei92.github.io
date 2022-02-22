@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: asdasdsa
+description: 
 nav: true
 ---
 <!-- _pages/teaching.md -->
