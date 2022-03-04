@@ -21,7 +21,7 @@ I graduated with a Bachelar degree in Energy and Power Engineering from Huazhong
 
 If you need a Resume/CV of me, please email me at <pengweiww@gmail.com>
 
-### Reseach Focus
+### Research Focus
 ___
 
 My goal is to develop high-performance control algorithms for unmanned aerial systems flying in challenging environments (e.g, near ground, high wind, GPS-denied). Towards this end, I have focused on unmanned aerial vehicle system modeling, opitmal control, deep learning and vision-based navigation. I also have rich hands-on experience with embedded systems and simulation environments development.
