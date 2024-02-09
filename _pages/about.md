@@ -9,12 +9,12 @@ profile:
   image: myself.jpg
   address:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 <!-- pages/about.md -->
-I am currently a *Postdoctoral Scholar* from the Department of Biological and Agricultural Engineering at University of California, Davis. I am working with  Professor [Stavros Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/) in his Bio-Automation lab. I recieved my Ph.D. degree from the Department of Mechanical and Aerospace Engineering at UC Davis in 2023. 
+I am currently a *Postdoctoral Scholar* from the Department of Biological and Agricultural Engineering at University of California, Davis. I am working with  Professor [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/) in his Bio-Automation lab. I recieved my Ph.D. degree from the Department of Mechanical and Aerospace Engineering at UC Davis in 2023. 
 <br/>
 <br/>
 ### Research Expertise ###
