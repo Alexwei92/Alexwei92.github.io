@@ -8,7 +8,7 @@ nav: true
 <!-- _pages/publications.md -->
 ### Preprint
 **Optimization-Based Motion Planning for Autonomous Agricultural Vehicles Turning in Constrained Headlands** \\
-Chen Peng, Peng Wei, Zhenghao Fei, Yuankai Zhu, Stavros G Vougioukas \\
+Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu, Stavros G Vougioukas \\
 [[PDF](https://arxiv.org/abs/2308.01117)] [[video](https://www.youtube.com/watch?v=sf0uDFwpSfo)]
 
 #### 2023
