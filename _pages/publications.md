@@ -19,7 +19,7 @@ Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu, Stavros G Vougioukas \\
 ___
 **Fusion-Driven Tree Reconstruction and Fruit Localization: Advancing Precision in Agriculture** \\
 Kaiming Fu, Peng Wei, Juan Villacres, Zhaodan Kong, Stavros G Vougioukas, Brian N Bailey \\
-*Workshops on Robotics in Agriculture at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* \\
+*Workshops on Robotics in Agriculture, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* \\
 [[Poster](https://arxiv.org/abs/2310.15138)]
 
 **Energy-Optimal Unmanned Aerial Vehicles Motion Planning and Control Based on Integrated System Physical Dynamics** \\
