@@ -6,18 +6,30 @@ description:
 nav: true
 ---
 <!-- _pages/publications.md -->
-### Under Review
-___
-**Interpretable and Verifiable Bearings Fault Diagnosis with Logic Wavelet Neural Network** \\
-Gang Chen, Huiming Jiang, Peng Wei \\
-*Mechanical Systems and Signal Processing (MSSP)*
+### Preprint
+**Optimization-Based Motion Planning for Autonomous Agricultural Vehicles Turning in Constrained Headlands** \\
+Chen Peng, Peng Wei, Zhenghao Fei, Yuankai Zhu, Stavros G Vougioukas \\
+[[PDF](https://arxiv.org/abs/2308.01117)] [[video](https://www.youtube.com/watch?v=sf0uDFwpSfo)]
 
-**Modeling and Validation of Electric Multirotor/UAV Multiphysical Energy Dynamics** \\
-Nicolas Michel, Anish Kumar Sinha, Peng Wei, Zhaodan Kong, Xinfan Lin \\
-*eTransportation*
+#### 2023
+___
+**Fusion-Driven Tree Reconstruction and Fruit Localization: Advancing Precision in Agriculture** \\
+Kaiming Fu, Peng Wei, Juan Villacres, Zhaodan Kong, Stavros G Vougioukas, Brian N Bailey \\
+*Workshops on Robotics in Agriculture at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* \\
+[[Poster](https://arxiv.org/abs/2310.15138)]
+
+**Energy-Optimal Unmanned Aerial Vehicles Motion Planning and Control Based on Integrated System Physical Dynamics** \\
+Nicolas Michel, Peng Wei, Zhaodan Kong, Xinfan Lin \\
+*Journal of Dynamic Systems, Measurement, and Control* \\
+[[PDF](https://asmedigitalcollection.asme.org/dynamicsystems/article/145/4/041002/1154458/Energy-Optimal-Unmanned-Aerial-Vehicles-Motion)]
 
 #### 2022
 ___
+
+**Modeling and Validation of Electric Multirotor Unmanned Aerial Vehicle System Energy Dynamics** \\
+Nicolas Michel, Peng Wei, Zhaodan Kong, Anish Kumar Sinha, Xinfan Lin \\
+*eTransportation* \\
+[[PDF](https://www.sciencedirect.com/science/article/pii/S2590116822000194)]
 
 **Vision-Based 2D Navigation of Unmanned Aerial Vehicles in Riverine Environments with Imitation Learning** \\
 Peng Wei, Ryan Liang, Andrew Michelmore, Zhaodan Kong \\
