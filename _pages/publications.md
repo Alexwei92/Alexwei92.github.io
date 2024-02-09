@@ -7,9 +7,13 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 ### Preprint
+___
+
 **Optimization-Based Motion Planning for Autonomous Agricultural Vehicles Turning in Constrained Headlands** \\
 Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu, Stavros G Vougioukas \\
 [[PDF](https://arxiv.org/abs/2308.01117)] [[video](https://www.youtube.com/watch?v=sf0uDFwpSfo)]
+</br></br>
+
 
 #### 2023
 ___
@@ -22,6 +26,7 @@ Kaiming Fu, Peng Wei, Juan Villacres, Zhaodan Kong, Stavros G Vougioukas, Brian 
 Nicolas Michel, Peng Wei, Zhaodan Kong, Xinfan Lin \\
 *Journal of Dynamic Systems, Measurement, and Control* \\
 [[PDF](https://asmedigitalcollection.asme.org/dynamicsystems/article/145/4/041002/1154458/Energy-Optimal-Unmanned-Aerial-Vehicles-Motion)]
+</br></br>
 
 #### 2022
 ___
@@ -35,6 +40,7 @@ Nicolas Michel, Peng Wei, Zhaodan Kong, Anish Kumar Sinha, Xinfan Lin \\
 Peng Wei, Ryan Liang, Andrew Michelmore, Zhaodan Kong \\
 *Journal of Intelligent and Robotic Systems (JINT)* \\
 [[video](https://www.youtube.com/watch?v=aPOqHHGbZgs)]
+</br></br>
 
 #### 2021
 ___
@@ -48,7 +54,7 @@ Peng Wei, Xinfan Lin, Zhaodan Kong \\
 Gang Chen, Peng Wei, Mei Liu \\
 *IEEE Transactions on Automation Science and Engineering (T-ASE)* \\
 [[PDF](https://ieeexplore.ieee.org/abstract/document/9422112)]
-
+</br></br>
 
 #### 2020
 ___
@@ -57,7 +63,7 @@ ___
 Gang Chen, Peng Wei, Huiming Jiang, Mei Liu \\
 *IEEE Transactions on Industrial Informatics (TII)* \\
 [[PDF](https://ieeexplore.ieee.org/abstract/document/9272306)]
-
+</br></br>
 
 #### 2019
 ___
@@ -66,7 +72,7 @@ ___
 Peng Wei, Sui Nam Chan, Seongkyu Lee, Zhaodan Kong \\
 *International Journal of Intelligent Robotics and Applications (IJIRA)* \\
 [[PDF](https://link.springer.com/article/10.1007/s41315-019-00098-z)] [[video](https://www.youtube.com/watch?v=y926-YTZKis)]
-
+</br></br>
 
 #### 2018
 ___
