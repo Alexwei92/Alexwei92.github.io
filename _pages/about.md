@@ -18,7 +18,7 @@ I am currently a *Postdoctoral Scholar* from the Department of Biological and Ag
 
 ### Research Expertise ###
 ___
-My research journey is deeply rooted in the intricate world of robots and automated systems. During my Ph.D., I dedicated years to the development and optimization of unmmaned aerial systems, aiming for enhanced autonomoy and efficiency. Currently, as a postdoctoral scholar at the Bio-Automation lab, my foccus has expanded to develop optimal planning and scheduling algorithms for agricultural robots. The results of these work will promise enhanced operational efficiency, reduced energy consumption, increased safety, and a notable reduction in the necessity for manuarl labor.
+My research journey is deeply rooted in the intricate world of robots and automated systems. During my Ph.D., I dedicated years to developing and optimizing unmanned aerial systems, aiming for enhanced autonomy and efficiency. As a postdoctoral scholar at the Bio-Automation lab, my focus has expanded to develop optimal planning and scheduling algorithms for agricultural robots. The results of this work will promise enhanced operational efficiency, reduced energy consumption, increased safety, and a notable reduction in the necessity for manual labor.
 
 * Autonomous navigation
 * Computer vision
